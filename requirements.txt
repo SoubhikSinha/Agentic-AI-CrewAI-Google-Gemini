@@ -1,0 +1,4 @@
+crewai
+langchain_google_genai # For connecting to Google Gemini LLM
+load_dotenv
+crewai-tools
